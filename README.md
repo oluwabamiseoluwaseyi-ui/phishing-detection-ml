@@ -1,18 +1,23 @@
 # AI-Powered Phishing Detection System
 
 ## Overview
- to develop a machine learning model that accurately classifies emails as phishing
- or legitimate and analyzes common phishing patterns to improve cybersecurity awareness.
+This project uses machine learning and natural language processing (NLP) techniques to classify phishing/spam emails versus legitimate emails.
 
-## Objectives
-- Classify emails as phishing or legitimate
-- Analyze phishing patterns
-- Apply machine learning in cybersecurity
+The system analyzes email content and cybersecurity-related indicators such as suspicious links, urgency terms, sender reputation, and attachment behavior to identify malicious patterns.
 
-## Tools
+## Technologies Used
 - Python
-- Scikit-learn
 - Pandas
+- Scikit-learn
+- Jupyter Notebook
+- TF-IDF Vectorization
+- Naive Bayes Classification
 
-## Status
-Project in progress (Day 1: Planning phase)
+## Results
+- Accuracy: 100%
+- Precision: 100%
+- Recall: 100%
+- F1-Score: 100%
+
+## Cybersecurity Relevance
+This project demonstrates how machine learning can be applied to phishing detection and social engineering analysis.
